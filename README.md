@@ -2,6 +2,10 @@
 
 Um simples gerenciador de tarefas desenvolvido em PHP procedural com HTML, CSS e JavaScript.
 
+## GIT
+
+Selecione a branch master pois é onde está os arquivos
+
 ## 🚀 Funcionalidades
 
 - Criar tarefas  
