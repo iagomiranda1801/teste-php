@@ -8,7 +8,8 @@ Selecione a branch master pois é onde está os arquivos
 
 ## 🚀 Funcionalidades
 
-- Criar tarefas  
+- Criar tarefas
+- Listar Tarefas
 - Alterar status das tarefas  
 - Excluir tarefas  
 
