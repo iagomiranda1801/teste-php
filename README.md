@@ -21,3 +21,5 @@ Um simples gerenciador de tarefas desenvolvido em PHP procedural com HTML, CSS e
 ## 🔧 Banco de dados
 Tem um arquivo slq para ser importado no seu gerenciador de banco de dados, estou utilizando o dbvear
 acredito que qualquer outro gerenciador consiga executar o mesmo
+
+OBSERVAÇÃO: Crie um banco de dados com o nome de todo_list
